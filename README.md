@@ -7,6 +7,9 @@ I have done my Bachelors majoring in Electronics and Communication from JBIET, I
 -	Also Worked on User Access administration using applications ORACLE, UNIX/LINUX, Active Directory, INFORMATICA, SQL server Management Studio.
 -	As a member of Identity Access Management team, taking team level initiatives, managing the team data, achieving the targets and sending the work reports to higher management were my primary goals.
 
+## Collaboration
+GitHub Profile: 
+
 
 ## Technical Skills
 - SQL Server
